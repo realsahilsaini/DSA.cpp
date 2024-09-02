@@ -1,0 +1,12 @@
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore compiled executables
+*.exe
+
+Basic
+conditionals
+CPP
+Homework Questions
+Shift Operation
+
